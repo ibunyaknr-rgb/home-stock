@@ -1,0 +1,18 @@
+{
+  "name": "Home Stock — Lovely Home Organizer",
+  "short_name": "Home Stock",
+  "description": "Kelola stok kebutuhan rumah tangga dengan mudah.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf7f6",
+  "theme_color": "#f8e9ef",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
